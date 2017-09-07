@@ -1,0 +1,15 @@
+C:\Users\tina\Desktop\AudioTest\AudioTest\bin\Debug\AudioTest.exe
+C:\Users\tina\Desktop\AudioTest\AudioTest\bin\Debug\AudioTest.pdb
+C:\Users\tina\Desktop\AudioTest\AudioTest\obj\x86\Debug\AudioTest.csprojResolveAssemblyReference.cache
+C:\Users\tina\Desktop\AudioTest\AudioTest\obj\x86\Debug\AudioTest.Main_Frm.resources
+C:\Users\tina\Desktop\AudioTest\AudioTest\obj\x86\Debug\AudioTest.Properties.Resources.resources
+C:\Users\tina\Desktop\AudioTest\AudioTest\obj\x86\Debug\AudioTest.csproj.GenerateResource.Cache
+C:\Users\tina\Desktop\AudioTest\AudioTest\obj\x86\Debug\AudioTest.exe
+C:\Users\tina\Desktop\AudioTest\AudioTest\obj\x86\Debug\AudioTest.pdb
+C:\Users\shiniverse\Desktop\AudioTest\AudioTest\bin\Debug\SingleTone.exe
+C:\Users\shiniverse\Desktop\AudioTest\AudioTest\bin\Debug\SingleTone.pdb
+C:\Users\shiniverse\Desktop\AudioTest\AudioTest\obj\x86\Debug\AudioTest.Main_Frm.resources
+C:\Users\shiniverse\Desktop\AudioTest\AudioTest\obj\x86\Debug\SingleTone.Properties.Resources.resources
+C:\Users\shiniverse\Desktop\AudioTest\AudioTest\obj\x86\Debug\AudioTest.csproj.GenerateResource.Cache
+C:\Users\shiniverse\Desktop\AudioTest\AudioTest\obj\x86\Debug\SingleTone.exe
+C:\Users\shiniverse\Desktop\AudioTest\AudioTest\obj\x86\Debug\SingleTone.pdb
